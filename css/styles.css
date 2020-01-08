@@ -1,0 +1,39 @@
+.about{
+  text-align: center;
+  border-style: inset;
+  border-color: blueviolet;
+  font-family: cursive;
+  background-color: lightpink;
+  font-size: 20px;
+}
+
+.blog{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+}
+
+.post:nth-child(odd){
+  background-color: cornflowerblue;
+}
+
+.post:nth-child(even){
+  background-color: hotpink;
+}
+
+.highlight{
+  font-weight: bolder;
+}
+
+.lowlight{
+  color: darkslategray;
+}
+
+img{
+  border-style: dotted;
+  border-width: 5px;
+  border-radius: 30px;
+}
+
+body{
+  background-color: lightblue;
+}
