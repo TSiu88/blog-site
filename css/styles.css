@@ -9,7 +9,11 @@
 
 .blog{
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  
+  margin-top: 50px;
+}
+
+.post{
+  margin-bottom: 40px;
 }
 
 .post:nth-child(odd){
