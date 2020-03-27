@@ -1,5 +1,4 @@
-# _[My First Webpage](https://github.com/TSiu88/blog-site)_
-#### _[Live Site Link](https://tsiu88.github.io/blog-site/)_
+# _[Blog Site](https://github.com/TSiu88/blog-site)_
 
 #### _HTML Div and CSS Exercise, 01.08.2020_
 
